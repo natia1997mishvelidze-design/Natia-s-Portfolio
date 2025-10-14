@@ -10,6 +10,9 @@ This repository showcases my testing samples to help you easily evaluate my skil
 - IPA, SQL , mob and web testing 
 - Agile (Scrum) development model 
 - Types of testing (Functional testing 
-- Non-functional testing, Change-related 
+- Non-functional testing, Change-related testing
+
+
+
 
 
